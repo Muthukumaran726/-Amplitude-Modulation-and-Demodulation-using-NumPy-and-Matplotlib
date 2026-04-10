@@ -25,8 +25,13 @@ __Algorithm__:
 6. Plot the Signals: Use Matplotlib to plot the message signal, carrier signal, and modulated signal.
 
  __Output__:
+ <img width="630" height="470" alt="EXP7" src="https://github.com/user-attachments/assets/a2faeccf-4b62-45a6-8b3c-8ed43be6c103" />
+
 
 
  __Result__:
+Thus the amplitude modulation using the python with the colab software is verified successfully.
+
+
 
 
